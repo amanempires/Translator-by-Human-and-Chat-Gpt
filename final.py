@@ -29,7 +29,7 @@ LANGUAGES = {
 }
 
 feedback = ['Best', "Good", "Average", "Worse"]
-openai.api_key = "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"
+openai.api_key = ""
 
 class SessionState:
     def __init__(self, **kwargs):
